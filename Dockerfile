@@ -5,14 +5,17 @@ FROM bitnami/nginx:1.21.6
 FROM bitnami/nginx:1.21-debian-10
 FROM bitnami/nginx:1.21
 
-# Tags: _
-FROM bitnami/nginx:_
-
-# Tags: 1.20.2-debian-10-r128, 1.20.2, 1.20-debian-10, 1.20
-FROM bitnami/nginx:1.20.2-debian-10-r128
+# Tags: 1.20.2-debian-10-r129, 1.20.2, 1.20-debian-10, 1.20
+FROM bitnami/nginx:1.20.2-debian-10-r129
 FROM bitnami/nginx:1.20.2
 FROM bitnami/nginx:1.20-debian-10
 FROM bitnami/nginx:1.20
+
+# Tags: _
+FROM bitnami/nginx:_
+
+# Tags: 1.20.2-debian-10-r128
+FROM bitnami/nginx:1.20.2-debian-10-r128
 
 # Tags: 1.21.6-debian-10-r61
 FROM bitnami/nginx:1.21.6-debian-10-r61
