@@ -1,18 +1,45 @@
-# Tags: latest, 1.21.6-debian-10-r62, 1.21.6, 1.21-debian-10, 1.21
+# Tags: latest, 1.21.6-debian-10-r67, 1.21.6, 1.21-debian-10, 1.21
 FROM bitnami/nginx:latest
-FROM bitnami/nginx:1.21.6-debian-10-r62
+FROM bitnami/nginx:1.21.6-debian-10-r67
 FROM bitnami/nginx:1.21.6
 FROM bitnami/nginx:1.21-debian-10
 FROM bitnami/nginx:1.21
 
-# Tags: 1.20.2-debian-10-r129, 1.20.2, 1.20-debian-10, 1.20
-FROM bitnami/nginx:1.20.2-debian-10-r129
+# Tags: _
+FROM bitnami/nginx:_
+
+# Tags: 1.20.2-debian-10-r133, 1.20.2, 1.20-debian-10, 1.20
+FROM bitnami/nginx:1.20.2-debian-10-r133
 FROM bitnami/nginx:1.20.2
 FROM bitnami/nginx:1.20-debian-10
 FROM bitnami/nginx:1.20
 
-# Tags: _
-FROM bitnami/nginx:_
+# Tags: 1.21.6-debian-10-r66
+FROM bitnami/nginx:1.21.6-debian-10-r66
+
+# Tags: 1.20.2-debian-10-r132
+FROM bitnami/nginx:1.20.2-debian-10-r132
+
+# Tags: 1.21.6-debian-10-r65
+FROM bitnami/nginx:1.21.6-debian-10-r65
+
+# Tags: 1.20.2-debian-10-r131
+FROM bitnami/nginx:1.20.2-debian-10-r131
+
+# Tags: 1.21.6-debian-10-r64
+FROM bitnami/nginx:1.21.6-debian-10-r64
+
+# Tags: 1.20.2-debian-10-r130
+FROM bitnami/nginx:1.20.2-debian-10-r130
+
+# Tags: 1.21.6-debian-10-r63
+FROM bitnami/nginx:1.21.6-debian-10-r63
+
+# Tags: 1.20.2-debian-10-r129
+FROM bitnami/nginx:1.20.2-debian-10-r129
+
+# Tags: 1.21.6-debian-10-r62
+FROM bitnami/nginx:1.21.6-debian-10-r62
 
 # Tags: 1.20.2-debian-10-r128
 FROM bitnami/nginx:1.20.2-debian-10-r128
@@ -160,33 +187,3 @@ FROM bitnami/nginx:1.21.6-debian-10-r37
 
 # Tags: 1.20.2-debian-10-r104
 FROM bitnami/nginx:1.20.2-debian-10-r104
-
-# Tags: 1.21.6-debian-10-r36
-FROM bitnami/nginx:1.21.6-debian-10-r36
-
-# Tags: 1.20.2-debian-10-r103
-FROM bitnami/nginx:1.20.2-debian-10-r103
-
-# Tags: 1.21.6-debian-10-r35
-FROM bitnami/nginx:1.21.6-debian-10-r35
-
-# Tags: 1.20.2-debian-10-r102
-FROM bitnami/nginx:1.20.2-debian-10-r102
-
-# Tags: 1.21.6-debian-10-r34
-FROM bitnami/nginx:1.21.6-debian-10-r34
-
-# Tags: 1.20.2-debian-10-r101
-FROM bitnami/nginx:1.20.2-debian-10-r101
-
-# Tags: 1.21.6-debian-10-r33
-FROM bitnami/nginx:1.21.6-debian-10-r33
-
-# Tags: 1.20.2-debian-10-r100
-FROM bitnami/nginx:1.20.2-debian-10-r100
-
-# Tags: 1.21.6-debian-10-r32
-FROM bitnami/nginx:1.21.6-debian-10-r32
-
-# Tags: 1.20.2-debian-10-r99
-FROM bitnami/nginx:1.20.2-debian-10-r99
