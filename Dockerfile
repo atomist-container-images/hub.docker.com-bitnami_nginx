@@ -1,6 +1,6 @@
-# Tags: latest, 1.21.6-debian-10-r92, 1.21.6, 1.21-debian-10, 1.21
+# Tags: latest, 1.21.6-debian-10-r96, 1.21.6, 1.21-debian-10, 1.21
 FROM bitnami/nginx:latest
-FROM bitnami/nginx:1.21.6-debian-10-r92
+FROM bitnami/nginx:1.21.6-debian-10-r96
 FROM bitnami/nginx:1.21.6
 FROM bitnami/nginx:1.21-debian-10
 FROM bitnami/nginx:1.21
@@ -8,11 +8,35 @@ FROM bitnami/nginx:1.21
 # Tags: _
 FROM bitnami/nginx:_
 
-# Tags: 1.20.2-debian-10-r158, 1.20.2, 1.20-debian-10, 1.20
-FROM bitnami/nginx:1.20.2-debian-10-r158
+# Tags: 1.20.2-debian-10-r162, 1.20.2, 1.20-debian-10, 1.20
+FROM bitnami/nginx:1.20.2-debian-10-r162
 FROM bitnami/nginx:1.20.2
 FROM bitnami/nginx:1.20-debian-10
 FROM bitnami/nginx:1.20
+
+# Tags: 1.21.6-debian-10-r95
+FROM bitnami/nginx:1.21.6-debian-10-r95
+
+# Tags: 1.20.2-debian-10-r161
+FROM bitnami/nginx:1.20.2-debian-10-r161
+
+# Tags: 1.21.6-debian-10-r94
+FROM bitnami/nginx:1.21.6-debian-10-r94
+
+# Tags: 1.20.2-debian-10-r160
+FROM bitnami/nginx:1.20.2-debian-10-r160
+
+# Tags: 1.21.6-debian-10-r93
+FROM bitnami/nginx:1.21.6-debian-10-r93
+
+# Tags: 1.20.2-debian-10-r159
+FROM bitnami/nginx:1.20.2-debian-10-r159
+
+# Tags: 1.21.6-debian-10-r92
+FROM bitnami/nginx:1.21.6-debian-10-r92
+
+# Tags: 1.20.2-debian-10-r158
+FROM bitnami/nginx:1.20.2-debian-10-r158
 
 # Tags: 1.21.6-debian-10-r91
 FROM bitnami/nginx:1.21.6-debian-10-r91
@@ -169,27 +193,3 @@ FROM bitnami/nginx:1.20.2-debian-10-r132
 
 # Tags: 1.21.6-debian-10-r65
 FROM bitnami/nginx:1.21.6-debian-10-r65
-
-# Tags: 1.20.2-debian-10-r131
-FROM bitnami/nginx:1.20.2-debian-10-r131
-
-# Tags: 1.21.6-debian-10-r64
-FROM bitnami/nginx:1.21.6-debian-10-r64
-
-# Tags: 1.20.2-debian-10-r130
-FROM bitnami/nginx:1.20.2-debian-10-r130
-
-# Tags: 1.21.6-debian-10-r63
-FROM bitnami/nginx:1.21.6-debian-10-r63
-
-# Tags: 1.20.2-debian-10-r129
-FROM bitnami/nginx:1.20.2-debian-10-r129
-
-# Tags: 1.21.6-debian-10-r62
-FROM bitnami/nginx:1.21.6-debian-10-r62
-
-# Tags: 1.20.2-debian-10-r128
-FROM bitnami/nginx:1.20.2-debian-10-r128
-
-# Tags: 1.21.6-debian-10-r61
-FROM bitnami/nginx:1.21.6-debian-10-r61
