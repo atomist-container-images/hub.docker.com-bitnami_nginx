@@ -190,6 +190,3 @@ FROM bitnami/nginx:1.21.6-debian-10-r66
 
 # Tags: 1.20.2-debian-10-r132
 FROM bitnami/nginx:1.20.2-debian-10-r132
-
-# Tags: 1.21.6-debian-10-r65
-FROM bitnami/nginx:1.21.6-debian-10-r65
